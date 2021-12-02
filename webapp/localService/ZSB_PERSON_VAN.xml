@@ -30,8 +30,8 @@
                 <Annotation Term="UI.Facets">
                     <Collection>
                         <Record Type="UI.ReferenceFacet">
-                            <PropertyValue Property="Label" String="Person"/>
-                            <PropertyValue Property="ID" String="CPF"/> 
+                            <PropertyValue Property="Label" String="Detalhes da pessoa"/>
+                            <PropertyValue Property="ID" String="Número do CPF"/> 
                             <PropertyValue Property="Target" AnnotationPath="@UI.Identification"/>
                         </Record>
                     </Collection>
